@@ -1,0 +1,9 @@
+@import "abstracts/variables";
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+// pages
+@import 'pages/pages';
+
+// components
+@import 'components/cardHello';
